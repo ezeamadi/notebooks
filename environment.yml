@@ -13,28 +13,13 @@ dependencies:
   - fiona
   - pyproj
   - rtree
-  - osmnx
-  - scipy
-  - scikit-learn
-  - pillow
-  - requests
-  - tqdm
+  - rasterio
+  - gdal
   - ipykernel
   - ipython
   - jinja2
-  - psycopg2
-  - rasterio
-  - gdal
-  - sqlalchemy
-  - attrs
-  - matplotlib-inline
-  - seaborn
-  - contextily
-  - pygeos
-  - typing-extensions
-  - packaging
+  - requests
+  - tqdm
   - pip
   - pip:
     - jupyterlab-git
-    - geopandas
-    - pandas
